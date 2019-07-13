@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee19018a-7cdf-47aa-bb24-7d8e7381e663" name="Default" comment="" />
+    <list default="true" id="ee19018a-7cdf-47aa-bb24-7d8e7381e663" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/chat-room-client-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/classes/com/wxj/chatroom/client/multi/MultiThreadClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/classes/com/wxj/chatroom/client/multi/ReadDataFromServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/classes/com/wxj/chatroom/client/multi/WriteDataToServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/classes/com/wxj/chatroom/client/single/SingleThreadClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/chat-room-server-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/classes/com/wxj/chatroom/server/multi/ExecuteClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/classes/com/wxj/chatroom/server/multi/MultiThreadServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/classes/com/wxj/chatroom/server/single/SingleThreadServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-room-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/chat-room-client/target/" />
     <ignored path="$PROJECT_DIR$/chat-room-server/target/" />
@@ -35,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/chat-room-server/src/main/java/com/wxj/chatroom/server/multi/ExecuteClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-3295">
-              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -75,10 +95,10 @@
         </entry>
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -111,12 +131,12 @@
         <option value="$PROJECT_DIR$/chat-room-client/src/main/java/com/wxj/chatroom/client/multi/WriteDataToServerThread.java" />
         <option value="$PROJECT_DIR$/chat-room-client/pom.xml" />
         <option value="$PROJECT_DIR$/chat-room-server/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/chat-room-server/src/main/java/com/wxj/chatroom/server/multi/ExecuteClient.java" />
         <option value="$PROJECT_DIR$/chat-room-client/src/main/java/com/wxj/chatroom/client/multi/MultiThreadClient.java" />
         <option value="$PROJECT_DIR$/READ.md" />
         <option value="$PROJECT_DIR$/chat-room-server/src/main/java/com/wxj/chatroom/server/multi/MultiThreadServer.java" />
         <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -331,12 +351,12 @@
       <workItem from="1561879958538" duration="1495000" />
       <workItem from="1561881560253" duration="2564000" />
       <workItem from="1561902507351" duration="3125000" />
-      <workItem from="1562992541621" duration="239000" />
+      <workItem from="1562992541621" duration="1476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44765000" />
+    <option name="totallyTimeSpent" value="46002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -717,7 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/READ.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -741,7 +760,7 @@
     <entry file="file://$PROJECT_DIR$/chat-room-server/src/main/java/com/wxj/chatroom/server/multi/ExecuteClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3295">
-          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -780,6 +799,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chat-room-client/src/main/java/com/wxj/chatroom/client/multi/ReadDataFromServerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -787,10 +813,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>

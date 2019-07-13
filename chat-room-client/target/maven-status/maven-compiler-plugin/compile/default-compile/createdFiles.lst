@@ -1,4 +1,0 @@
-com\wxj\chatroom\client\multi\MultiThreadClient.class
-com\wxj\chatroom\client\multi\WriteDataToServerThread.class
-com\wxj\chatroom\client\multi\ReadDataFromServerThread.class
-com\wxj\chatroom\client\single\SingleThreadClient.class
